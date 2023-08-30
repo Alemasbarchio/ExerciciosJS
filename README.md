@@ -1,8 +1,8 @@
-## ExerciciosJS
-**Desafio Complementar**.
-1. Criar um script em JS, usuário digitar tipo texto e numérico.
-2. Realizar operações matemáticas ou concatenação.
-3. Mostrar resultados no console ou alert.
+# ExerciciosJS
+Desafio Complementar
+Criar um script em JS, usuário digitar tipo texto e numérico
+Realizar operações matemáticas ou concatenação 
+Mostrar resultados no console ou alert
 
 # Funções
 **Desafio Complementar**.
